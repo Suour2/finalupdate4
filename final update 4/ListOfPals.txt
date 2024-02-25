@@ -1,0 +1,10 @@
+001 Lamball 3 Nuetral 
+002 Cattiva 5 Nuetral 
+003 Chikipi 10 Nuetral 
+004 Lifmunk 10 Grass 
+005 Foxparks 10 Fire
+006 Fuack 5 Water
+007 Sparkit 6 Electric
+008 Tanzee 3 Grass
+009 Rooby 8 Fire
+010 Pengullet 9 Water Ice
